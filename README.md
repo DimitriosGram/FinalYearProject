@@ -8,6 +8,11 @@ To run this project, install the required dependencies using:
 
 ```pip install streamlit pandas numpy scikit-learn xgboost```
 
+## Overview
+
+The main code file is the ```ProjectAlpha.py``` file. 
+
+
 # FinalYearProject
 
 ## Overview
