@@ -59,7 +59,7 @@ This project combines machine learning with psychological and behavioral analysi
 
 | Component               | Description                                                                   |
 | ----------------------- | ----------------------------------------------------------------------------- |
-| `ProjectAlpha.py`       | Core Streamlit app integrating the machine learning pipeline.                 |
+| `NewModel.py`           | Core Streamlit app integrating the machine learning pipeline.                 |
 | `S3 Datasets`           | Season-level and match-level data including historical and current seasons.   |
 | `Psychological Metrics` | Derived features capturing discipline, pressure status, and momentum.         |
 | `XGBoost Regressor`     | Trained model for predicting final season points.                             |
