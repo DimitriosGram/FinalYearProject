@@ -8,9 +8,9 @@ error_capture() {
 
 trap 'error_capture' ERR
 
-account_id='282423009867'
+account_id='111111111'
 region='eu-west-2'
-repo_name='fyp/teamscrapper'
+repo_name='fyp/blablabla'
 image_tag='latest'
 lambda_function_name='teamScrapper'
 
