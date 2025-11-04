@@ -108,7 +108,7 @@ These paths contain both the match-level and season-level datasets used for mode
 ## ▶️ Running the App
 
 ```bash
-streamlit run ProjectAlpha.py
+streamlit run NewModel.py
 ```
 
 Once launched, the web interface will:
