@@ -1,0 +1,12 @@
+streamlit
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+boto3
+python-dotenv
+selenium==4.6.0
+beautifulsoup4
+lxml
+openpyxl
